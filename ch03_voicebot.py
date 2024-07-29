@@ -12,7 +12,6 @@ from datetime import datetime
 from gtts import gTTS
 # 음원 파일 재생을 위한 패키지 추가
 import base64
-import ffmpeg
 
 ##### 기능 구현 함수 #####
 def STT(audio):
